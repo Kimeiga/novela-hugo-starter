@@ -7,7 +7,7 @@ avatar: "/images/dennis-brotzky.jpg"
 featured: true
 social:
 - title: unsplash
-  url: https://unsplash.com
+  url: https://unsplash.com/@unitednations
 - title: github
   url: https://github.com
 
